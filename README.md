@@ -1,4 +1,4 @@
 hello-tlc
 =========
 
-my first repository
+my first repository,and I will try my best to study!
